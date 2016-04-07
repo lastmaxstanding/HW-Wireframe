@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* YOUR CSS GOES HERE*/
+
+body {
+	font-size: 18px;
+	line-height: 32px;
+	color: #ebebeb;
+	background: #ebebeb
+}
+header {
+	background: #777;
+	padding: 20px;
+	border: 10px;
+	margin-bottom: 10px;
+	color: #ebebeb;
+}
+#header1 {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+nav {
+
+	background: #777;
+	padding: 20px;
+	border: 10px;
+	margin-bottom: 20px;
+	color: #ebebeb;
+}
+#nav1 {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+}
+section {
+
+	padding: 60px;
+	background: #777;
+	margin-bottom: 20px;
+}
+#left {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	float: left;
+	width: 55%;
+	background: #777;
+	color: #ebebeb;
+}
+
+#ha1 {
+	clear: both;
+	width: 50%;
+	background: #ccc;
+	overflow: auto;
+}
+
+#pa1 {
+	width: 50%;
+	background: #ccc;
+	overflow: auto;
+	margin-top: 20px;
+}
+article {
+	padding: 60px;
+	background: #ccc;
+	margin-top: 0px;
+}
+
+#article1 {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	background: #ccc;
+	color: #ebebeb;
+	clear: both;
+	width: 100%;
+	overflow: auto;
+}
+
+aside {
+	padding: 150px;
+	background: #777;
+	margin-bottom: 20px;
+}
+
+
+#right {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	float: right;
+	width: 510px;
+	background: #777;
+	color: #fff;
+}
+
+footer {
+	background: #777;
+	padding: 20px;
+	clear: both;
+}
+
+#footer1 {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+}
